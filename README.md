@@ -10,5 +10,13 @@
 
 ---
 
+ ### 💻 Several modules have been developed:
+  - Client
+  - Server
+  - Network
+
+---
+
+By downloading the project and opening the project structure you will find links between the modules
 
 
