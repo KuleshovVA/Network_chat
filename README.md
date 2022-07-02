@@ -17,6 +17,6 @@
 
 ---
 
-By downloading the project and opening the project structure you will find links between the modules
+By downloading the project and opening the project structure you will find links between the modules. The putty program also helped me to visually test the work of my project. [Connection type - RAW]
 
 
